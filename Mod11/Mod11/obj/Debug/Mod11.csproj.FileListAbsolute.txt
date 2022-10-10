@@ -1,0 +1,8 @@
+C:\Users\Marcus\source\repos\Mod11\Mod11\bin\Debug\Mod11.exe.config
+C:\Users\Marcus\source\repos\Mod11\Mod11\bin\Debug\Mod11.exe
+C:\Users\Marcus\source\repos\Mod11\Mod11\bin\Debug\Mod11.pdb
+C:\Users\Marcus\source\repos\Mod11\Mod11\obj\Debug\Mod11.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\Mod11\Mod11\obj\Debug\Mod11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcus\source\repos\Mod11\Mod11\obj\Debug\Mod11.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\Mod11\Mod11\obj\Debug\Mod11.exe
+C:\Users\Marcus\source\repos\Mod11\Mod11\obj\Debug\Mod11.pdb
